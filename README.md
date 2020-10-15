@@ -5,7 +5,7 @@
 # EasyGUI
 
 
- This is a library that facilitates the creation of custom windows forms, especially used for non-hook forms, our designs are oriented to Flat-design. We would like other developers to extend this library so that each one can add their designs (it is not necessary that they be flat-designs), to contribute please see [How To Contribute](README.md#how-to-contribute)
+ This is a library that facilitates the creation of custom windows forms, especially used for non-hook forms, our designs are oriented to Flat-design. We would like other developers to extend this library so that each one can add their designs (it is not necessary that they be flat-designs), to contribute please see [How To Contribute](#how-to-contribute)
  
    ----------------------
 ## How to Use
