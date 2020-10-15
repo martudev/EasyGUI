@@ -19,9 +19,9 @@
  1. Enjoy! :)
 
 Uninstall:
-	1. Open VS 2019 go to `Extensions >> Manage extensions >> Installed >> All` 
-	1. search for `EasyGUI` and click unistall.
-	1. Close VS 2019.
+ 1. Open VS 2019 go to `Extensions >> Manage extensions >> Installed >> All` 
+ 1. search for `EasyGUI` and click unistall.
+ 1. Close VS 2019.
  
  if you want you can join to our discord server [Join Now](https://discord.gg/BqB5DnP)
  
