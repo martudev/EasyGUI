@@ -5,22 +5,23 @@
 # EasyGUI
 
 
- This is a library that facilitates the creation of custom windows forms, especially used for non-hook forms, our designs are oriented to Flat-design. We would like other developers to extend this library so that each one can add their designs (it is not necessary that they be flat-designs), to contribute please see [How To Contribute](<link>)
+ This is a library that facilitates the creation of custom windows forms, especially used for non-hook forms, our designs are oriented to Flat-design. We would like other developers to extend this library so that each one can add their designs (it is not necessary that they be flat-designs), to contribute please see [How To Contribute](README.md#how-to-contribute)
  
    ----------------------
 ## How to Use
 **Only tested in VS 2019**
 
- 1. Download Source Code(a) or download the Release published(b).
- 2.   a) Build the souce code and go to ../EasyGUI/bin/Debug and open `EasyGUI.vsix`
-	b) Open `EasyGUI.vsix` and folow the instructions
- 3. Open the ToolBox and search for `EButton` or any you want.
- 5. Enjoy! :)
+ 1. Download Source Code(i) or download the Release published(ii).
+ 1. Then..
+    1. Build the souce code and go to ../EasyGUI/bin/Debug and open `EasyGUI.vsix`
+    2. Open `EasyGUI.vsix` and folow the instructions
+ 1. Open the ToolBox and search for `EButton` or any you want.
+ 1. Enjoy! :)
 
 Uninstall:
 	1. Open VS 2019 go to `Extensions >> Manage extensions >> Installed >> All` 
-	2. search for `EasyGUI` and click unistall.
-	3. Close VS 2019.
+	1. search for `EasyGUI` and click unistall.
+	1. Close VS 2019.
  
  if you want you can join to our discord server [Join Now](https://discord.gg/BqB5DnP)
  
@@ -39,8 +40,8 @@ Uninstall:
 
 ## How To Contribute
 1) Create a fork of this repository.
-2) Make the changes.
-3) Create a pull request to `dev` branch.
+1) Make the changes.
+1) Create a pull request to `dev` branch.
  
  
 ## ChangeLog
