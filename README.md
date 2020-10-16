@@ -42,6 +42,10 @@ Uninstall:
 1) Create a fork of this repository.
 1) Make the changes.
 1) Create a pull request to `dev` branch.
+
+## Common issues
+
+- If you change the EasyGUI version, you may get a message when importing a new component that says **"there is already a component with the same name"**, to solve this you must go to your `project >> references >> EasyGUI` and remove the reference.
  
  
 ## ChangeLog
